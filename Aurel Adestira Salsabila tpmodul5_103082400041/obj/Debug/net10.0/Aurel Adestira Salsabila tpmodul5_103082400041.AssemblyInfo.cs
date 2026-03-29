@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aurel Adestira Salsabila tpmodul5_103082400041")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58c840aec2a4784167bdda88c383be9a2feda5a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aurel Adestira Salsabila tpmodul5_103082400041")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aurel Adestira Salsabila tpmodul5_103082400041")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
