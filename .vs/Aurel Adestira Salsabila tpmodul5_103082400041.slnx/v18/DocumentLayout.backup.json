@@ -24,7 +24,11 @@
               "RelativeDocumentMoniker": "Aurel Adestira Salsabila tpmodul5_103082400041\\Program.cs",
               "ToolTip": "D:\\tugas_alpro\\Semester4\\Aurel Adestira Salsabila tpmodul5_103082400041\\Aurel Adestira Salsabila tpmodul5_103082400041\\Program.cs",
               "RelativeToolTip": "Aurel Adestira Salsabila tpmodul5_103082400041\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+>>>>>>> generic-class
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T14:03:55.373Z",
               "EditorCaption": ""
